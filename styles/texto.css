@@ -1,0 +1,15 @@
+.texto__imagem {
+    width: 30%;
+    margin: 1em 0 0.8em 0;
+    border-radius: 0.3em;
+}
+
+.texto {
+    text-align: center;
+    background-color: var(--azul);
+    font-size: 18px;
+}
+
+.texto__paragrafo {
+    color: var(--branco);
+}

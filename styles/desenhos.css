@@ -1,0 +1,20 @@
+.desenhos__titulo {
+    padding: 0 1em 0.5em 1em;
+    font-size: 18px;
+}
+
+.desenhos__imagem {
+    width: 20%;
+    display:flexbox;
+    padding: 0 0 1em 0;
+    border-radius: 0.3em;
+}
+
+.desenhos {
+    text-align: center;
+}
+
+.desenho__coracao {
+    width: 4%;
+    padding: 0 0 3.5em 0;
+}

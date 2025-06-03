@@ -1,0 +1,31 @@
+@import url(styles/cabecalho.css);
+@import url(styles/banner.css);
+@import url(styles/container.css);
+@import url(styles/card.css);
+@import url(styles/corpo.css);
+@import url(styles/carrossel.css);
+@import url(styles/desenhos.css);
+@import url(styles/texto.css);
+
+:root {
+    --cor-de-fundo: #ffede8;
+    --branco: #EEEEEE;
+    --preto: #181C14;
+    --cinza: #4d4e4c;
+    --azul: #201E43;
+    --fonte-titulo: "Ancizar Serif";
+}
+
+body {
+    background-color: var(--cor-de-fundo);
+    color: var(--cinza);
+    font-family: var(--fonte-titulo);
+    font-size: 16px;
+    height: 100%;
+    width: 100%;
+}
+
+.rodape {
+    margin: 3em 0 0.5em 0.5em;
+    border-top:  1px solid var(--azul);
+}
